@@ -1,6 +1,6 @@
 hi, i am LunaticFirework
 
-gonna work on "fishing game" (might gonna change name of game)
+working on "bizarrely cool adventure" and "deltarune orange" (incase i won't be lazy lol)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunaticFirework&hide=contribs,prs)
 
